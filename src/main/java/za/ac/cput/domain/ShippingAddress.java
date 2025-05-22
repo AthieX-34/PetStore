@@ -1,7 +1,7 @@
 package za.ac.cput.domain;
 
 public class ShippingAddress {
-      private int shippingAddressID;
+    private int shippingAddressID;
     private String street;
     private String flatDetail;
     private String suburb;
